@@ -1,0 +1,18 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\lenovo\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\Desktop\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\Lenovo\Desktop\my projects\search\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
